@@ -15,7 +15,7 @@ I graduated from ETH Zürich in 2022 where I studied Robotics, Systems and Contr
 
 ## News
 
-- **[Sep. 2025]** I did an oral presentation for our paper "Quantization-Free Autoregressive Action Transformer" at EurIPS in Copenhagen! Slides can be found [here](https://drive.google.com/file/d/1MvX9DrnujF_mW3DCKVoJpaBr8soQ0Jb7/view?usp=sharing)
+- **[Sep. 2025]** I did an oral presentation for our paper "Quantization-Free Autoregressive Action Transformer" at EurIPS in Copenhagen! Slides can be found [here](https://drive.google.com/file/d/1MvX9DrnujF_mW3DCKVoJpaBr8soQ0Jb7/view?usp=sharing).
 - **[Sep. 2025]** Our paper "Quantization-Free Autoregressive Action Transformer" is accepted as a **spotlight** at **NeurIPS 2025**!
 - **[Sep. 2024]** I started my Ph.D. at the University of Tübingen under the supervision of [Prof. Claire Vernade](https://www.cvernade.com/)!
 - **[Aug. 2021]** Our paper "Safe Deep Reinforcement Learning for Multi-Agent Systems with Continuous Action Spaces" is accepted at **ICML 2021** in the **RL4RealLife** workshop!
