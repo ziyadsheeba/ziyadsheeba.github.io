@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at the University of Tübingen and a part of the International Max Planck School for Intelligent Systems. I am supervised by [Prof. Claire Vernade](https://www.cvernade.com/), where I am working on bridging the gap between theory and practice of applying reinforcement learning algorithms at scale. 
 
-I graduated from ETH Zürich in 2022 where I studied Robotics, Systems and Control with a focus on Reinforcement Learning and Optimal Control. Afterwards, I worked as a machine learning engineer at Merantix Momentum till 2024, where I developed and trained models at a large scale for various industry projects. 
+I graduated from ETH Zürich in 2022 where I studied Robotics, Systems and Control with a focus on Reinforcement Learning and Optimal Control. Afterwards, I worked as a machine learning engineer at [Merantix Momentum](https://www.merantix-momentum.com/) till 2024, where I developed and trained models at a large scale for various industry projects. 
 
 ## Research Interests
 
