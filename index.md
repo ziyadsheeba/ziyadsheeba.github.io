@@ -14,6 +14,7 @@ I graduated from ETH Zürich in 2022 where I studied Robotics, Systems and Contr
 - **Generative Modeling:** VLAs, Diffusion Models, World Models. 
 
 ## News
+- **[May 2026]** Our new preprint ["Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation"](https://arxiv.org/abs/2605.12000) is now on arxiv!
 - **[Dec. 2025]** Our new preprint ["Efficient Personalization of Generative Models via Optimal Experimental Design"](https://arxiv.org/abs/2512.19057) is now on arxiv!
 - **[Dec. 2025]** I did an oral presentation for our paper ["Quantization-Free Autoregressive Action Transformer"](https://arxiv.org/abs/2503.14259) at EurIPS in Copenhagen! Slides can be found [here](https://drive.google.com/file/d/1MvX9DrnujF_mW3DCKVoJpaBr8soQ0Jb7/view?usp=sharing).
 - **[Sep. 2025]** Our paper ["Quantization-Free Autoregressive Action Transformer"](https://arxiv.org/abs/2503.14259) is accepted as a **spotlight** at **NeurIPS 2025**!
