@@ -1,6 +1,6 @@
 main:
 
-    - title: "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation"
+  - title: "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation"
     authors: <strong>Ziyad Sheebaelhamd*</strong>, Luca Viano*, Volkan Cevher, Claire Vernade 
     conference_short: ArXiv
     conference: ArXiv, 2026.
