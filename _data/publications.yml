@@ -1,7 +1,15 @@
 main:
 
+    - title: "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation"
+    authors: <strong>Ziyad Sheebaelhamd*</strong>, Luca Viano*, Volkan Cevher, Claire Vernade 
+    conference_short: ArXiv
+    conference: ArXiv, 2026.
+    pdf: https://arxiv.org/abs/2605.12000
+    code: https://github.com/ziyadsheeba/mabc
+    image: ./assets/img/teaser_mabc.png
+  
   - title: "Quantization-Free Autoregressive Action Transformer"
-    authors: <strong>Ziyad Sheebaelhamd*</strong>, Michael Tschannen, Michael Muehlebach, Claire Vernade (*Corresponding authors)
+    authors: <strong>Ziyad Sheebaelhamd</strong>, Michael Tschannen, Michael Muehlebach, Claire Vernade
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://openreview.net/pdf/4713a4110a83bd0fda69939f65cf935963665517.pdf
