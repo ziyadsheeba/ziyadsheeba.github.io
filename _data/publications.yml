@@ -2,8 +2,8 @@ main:
 
   - title: "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation"
     authors: <strong>Ziyad Sheebaelhamd*</strong>, Luca Viano*, Volkan Cevher, Claire Vernade 
-    conference_short: ArXiv
-    conference: ArXiv, 2026.
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2605.12000
     code: https://github.com/ziyadsheeba/mabc
     image: ./assets/img/teaser_mabc.png
